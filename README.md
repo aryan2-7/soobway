@@ -1,2 +1,2 @@
 # soobway
-a subway surfers clone
+a subway surfers controller
